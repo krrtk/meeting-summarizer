@@ -1,4 +1,9 @@
 # link to demo: https://youtu.be/b8SwDVfkN2A
+In this demo I have use two audio file for reference:
+
+1)priya_rahul_alex_meet.wav for showing how my webappp works when multiple people are in a meeting, for that case all the key decisions, summary etc... were working.
+
+2)not_meeting_but_conversation.wav for a casual conversation where no formal meeting setting is there and hence no key decisions, deadlines etc. is there thus showing webapp doesn't halucinate, it only provides legit information that is uploaded to it
 # AI Meeting Summarizer
 Upload a meeting audio recording and get back a structured summary: key decisions, action items, open questions, and next steps — powered by Groq Whisper (transcription) and an LLM (extraction).
 
