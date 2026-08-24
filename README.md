@@ -1,5 +1,5 @@
+# link to demo: https://youtu.be/b8SwDVfkN2A
 # AI Meeting Summarizer
-
 Upload a meeting audio recording and get back a structured summary: key decisions, action items, open questions, and next steps — powered by Groq Whisper (transcription) and an LLM (extraction).
 
 ---
